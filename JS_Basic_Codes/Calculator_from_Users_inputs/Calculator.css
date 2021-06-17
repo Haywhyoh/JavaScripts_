@@ -1,0 +1,21 @@
+input{
+    margin: 2px;
+}
+
+#first_input {
+    margin: 2px 0 2px 18px;
+}
+
+div {
+    width: 100px;
+    height: 2rem;
+    border: 2px solid;
+    text-align: center;
+
+}
+
+#final_answer{
+    padding:0px;
+    margin: 0;
+    text-align: center;
+}
